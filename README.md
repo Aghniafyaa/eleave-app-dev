@@ -11,7 +11,7 @@ Web-based eLeave management system with role-based access (Employee & Supervisor
 
 
 # Tech Stack
-Backend: ASP.NET Core (Razor Pages / Web API)
-Database: MySQL
-Language: C#
-Tools: Visual Studio, Git, GitHub
+- Backend: ASP.NET Core (Razor Pages / Web API)
+- Database: MySQL
+- Language: C#
+- Tools: Visual Studio, Git, GitHub
